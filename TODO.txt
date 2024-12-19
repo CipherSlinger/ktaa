@@ -1,0 +1,2 @@
+1. Complete Buff.h that make the hash patching more convinicent.
+2. GT is not allowed to compressed in ToBytes function.

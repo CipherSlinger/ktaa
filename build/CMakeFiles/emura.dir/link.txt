@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 CMakeFiles/emura.dir/emura.cpp.o CMakeFiles/emura.dir/src/Group.cpp.o CMakeFiles/emura.dir/src/Pairing.cpp.o CMakeFiles/emura.dir/src/SHA256.cpp.o CMakeFiles/emura.dir/src/Zr.cpp.o CMakeFiles/emura.dir/src/Timer.cpp.o -o /home/jianye/Desktop/coding/bin/emura   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lgmp -lpbc 

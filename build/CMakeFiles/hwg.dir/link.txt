@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 CMakeFiles/hwg.dir/hwg.cpp.o CMakeFiles/hwg.dir/src/Group.cpp.o CMakeFiles/hwg.dir/src/Pairing.cpp.o CMakeFiles/hwg.dir/src/SHA256.cpp.o CMakeFiles/hwg.dir/src/Zr.cpp.o CMakeFiles/hwg.dir/src/Timer.cpp.o -o /home/jianye/Desktop/coding/bin/hwg   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lgmp -lpbc 

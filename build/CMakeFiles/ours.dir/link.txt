@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 CMakeFiles/ours.dir/ours.cpp.o CMakeFiles/ours.dir/src/Group.cpp.o CMakeFiles/ours.dir/src/Pairing.cpp.o CMakeFiles/ours.dir/src/SHA256.cpp.o CMakeFiles/ours.dir/src/Zr.cpp.o CMakeFiles/ours.dir/src/Timer.cpp.o -o /home/jianye/Desktop/coding/bin/ours   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lgmp -lpbc 
